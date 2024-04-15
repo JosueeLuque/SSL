@@ -14,6 +14,6 @@
 cd 00-CHelloWorld
 gcc hello.c -std=gnu11 -o hello
 
-# Ejecutar el archivo ejecutable "hello.exe" y generar "aoutput.txt"
-.\hello.exe > "hello.exe"
+# Ejecutar el archivo ejecutable "hello.exe" y generar "autput.txt"
+.\hello.exe > "output.txt"
 ```
